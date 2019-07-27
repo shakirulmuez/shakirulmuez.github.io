@@ -1,6 +1,8 @@
 Welcome to Shakir Github Page!
 
-You can also visit my website by clicking here!
+[//]: # (This is a comment! Hopefully it doesn't appear in the page...)
+
+[//]: # You can also visit my website by clicking [here](https://andiazfar.wixsite.com/website)!
 
 ![Alt](KK.png)
 
