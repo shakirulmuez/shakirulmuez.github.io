@@ -11,5 +11,5 @@
 [//]: #	* Create a reverse shell from victim host to attacker host.
 1. [Simple Basic Calculator using C language](https://github.com/shakirulmuez/simple_basic_calculator)
 	* Basic calculator with addition, subtraction, multiplication and division operation.
-2. [Simple Basic Calculator using Python language](https://github.com/shakirulmuez/python_calculator)
+2. [Python Basic Calculator](https://github.com/shakirulmuez/python_calculator)
 	* Basic calculator mathematics operation (addition, subtraction, multiplication and division) using Python
