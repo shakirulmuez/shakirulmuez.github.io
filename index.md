@@ -6,6 +6,8 @@
 
 [//]: ![Alt](KK.png)
 
+This is page where I'm going to put all my project that I had done. More new projects and ideas will be posted soon.
+
 ### List of my Projects within GITHUB: 
 [//]: # 1. [Reverse Shell](https://github.com/shakirulmuez/reverse_shell)
 [//]: #	* Create a reverse shell from victim host to attacker host.
