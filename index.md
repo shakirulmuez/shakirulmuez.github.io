@@ -15,3 +15,5 @@ This is page where I'm going to put all my project that I had done. More new pro
 	* Basic calculator with addition, subtraction, multiplication and division operation.
 2. [Python Basic Calculator](https://github.com/shakirulmuez/python_calculator)
 	* Basic calculator mathematics operation (addition, subtraction, multiplication and division) using Python
+3. [C++ Basic Calculator](https://github.com/shakirulmuez/basic_calculator_using_C_plus)
+	* Basic calculator mathematics operation (addition, subtraction, multiplication and division) using C++ language.
